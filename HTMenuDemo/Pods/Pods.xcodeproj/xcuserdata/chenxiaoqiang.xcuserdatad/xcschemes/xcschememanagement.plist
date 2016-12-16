@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CocoaLumberjack.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>HTCommonUtility.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>HTMenu.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>HTSegmentView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1719A66BF10F1274338AB512522793CC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3BBC97E628905C1C9CC45DA3E3F2483B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4CB2C7A106AFA76C36A1B181111A7C39</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D3C74E50D9749E80B55933F6DA931D06</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F90400A6BEC77A92C54C63DCADAE1F35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

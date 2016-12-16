@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+pod 'HTMenu', :git => 'https://g.hz.netease.com/HTIOSUI/HTMenu.git', :branch => 'master'
+pod 'HTSegmentView', :git => 'https://g.hz.netease.com/HTIOSUI/HTSegmentView.git', :branch => 'master'
+pod 'HTCommonUtility', :git => 'https://g.hz.netease.com/HeartTouchOpen/HTCommonUtils.git'
