@@ -16,14 +16,14 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HTMenu"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of HTMenu."
+  s.version      = "0.0.2"
+  s.summary      = "HTMenu 是网易标准化的menu控件库."
 
   s.description  = <<-DESC
                    A longer description of HTMenu in Markdown format.
                    DESC
 
-  s.homepage     = "https://github.com/NEYouFan/HTMenu-iOS"
+  s.homepage     = "https://github.com/NEYouFan/ht-menu-ios"
 
 
   s.license      = "MIT"
@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
 
 
-  s.source       = { :git => "https://github.com/NEYouFan/HTMenu-iOS.git", :tag => s.version.to_s}
+  s.source       = { :git => "https://github.com/NEYouFan/ht-menu-ios.git", :tag => s.version.to_s}
 
 
   s.source_files  = "HTMenu/*.{h,m}"
